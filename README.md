@@ -45,7 +45,7 @@ Cada carpeta o archivo contiene una descripción clara del reto, su objetivo, y 
 El objetivo de este repositorio es:
 
 - Documentar mi progreso de forma organizada 📈  
-- Practicar buenas prácticas de desarrollo 🧼  
+- Familiarizarme con las buenas prácticas de desarrollo 🧼  
 - Compartir con la comunidad lo que voy aprendiendo 🤝  
 - Tener una referencia personal para el futuro 🗂️
 
