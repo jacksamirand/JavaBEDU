@@ -8,6 +8,8 @@ Este espacio está dedicado a documentar y compartir los **retos prácticos** qu
 
 Aquí encontrarás una recopilación de ejercicios y prácticas que abarcan los siguientes temas:
 
+### 🧪 Módulo 1: Java Básico
+
 - 🧩 Fundamentos de Java  
 - 🧮 Tipos de datos y operadores  
 - 🔁 Estructuras de control (condicionales y bucles)  
@@ -15,11 +17,30 @@ Aquí encontrarás una recopilación de ejercicios y prácticas que abarcan los 
 - 🧠 Herencia y polimorfismo  
 - 🗃️ Colecciones y arreglos  
 - 🧪 Manejo de excepciones  
-- 🛠️ Proyectos de práctica
+- 🛠️ Proyectos de práctica  
+
+### 🚀 Módulo 2: Java Intermedio
+
+- 🧬 Clases genéricas  
+- 🧵 Multithreading y procesamiento concurrente  
+- 🧠 Programación funcional  
+- 🌀 Procesos asíncronos  
+- 🌊 Streams reactivos  
+- 🛠️ Gestión de bases de datos  
+- 🧩 Microservicios  
+- ✅ Buenas prácticas  
+
+Este segundo módulo se enfoca en aprender conceptos avanzados de Java tales como **programación funcional, concurrencia, asincronía, bases de datos y microservicios**, aplicando **buenas prácticas para el desarrollo de software escalable y moderno**.
 
 Cada carpeta o archivo contiene una descripción clara del reto, su objetivo, y en algunos casos, comentarios explicativos en el código para facilitar su comprensión.
 
-## 🚀 Propósito del Repositorio
+## 🛠️ Tecnologías utilizadas
+
+- Lenguaje: **Java 17+**  
+- Editor: **IntelliJ IDEA / VS Code**  
+- Herramientas de compilación: **JDK, terminal, y/o IDE**
+
+## 🚩 Propósito del Repositorio
 
 El objetivo de este repositorio es:
 
@@ -28,16 +49,10 @@ El objetivo de este repositorio es:
 - Compartir con la comunidad lo que voy aprendiendo 🤝  
 - Tener una referencia personal para el futuro 🗂️
 
-## 🛠️ Tecnologías utilizadas
-
-- Lenguaje: **Java 17+**  
-- Editor: **IntelliJ IDEA / VS Code**  
-- Herramientas de compilación: **JDK, terminal, y/o IDE**
-
 ## 📌 Nota
 
 Este repositorio está en constante actualización conforme avanzo en el curso, así que siéntete libre de explorar y seguir mi progreso 🌱.
 
 ---
 
-Gracias por visitar este repo. ¡Que el código te acompañe! 🌟  
+Gracias por visitar este repo. ¡Que el código te acompañe! 🌟
